@@ -1,0 +1,163 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #366897;
+}
+
+/*Foto*/
+.nombre .img {
+    position: absolute;
+    top: 4%;
+    right: 17%;
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+    overflow: hidden;
+    }
+    
+    .nombre .img img {
+    width: 100%;
+    height: 100%;
+    
+}
+
+
+/*Encabezado*/
+.nombre {
+    width: 100%;
+    height: 270px;
+    background: #96b9d1 ;
+
+}
+
+.nombre .content {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 15%;
+}
+
+.nombre .content .h1 {
+    color: black;
+    font-family: 'PT Serif', serif;
+    font-weight: bolder;
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+.nombre .content .p1 {
+    color: black;
+    font-family: 'PT Serif', serif;
+    font-size: 20px;
+    margin-top: 0;
+margin-bottom: 0;
+}
+
+/*MasInfo*/
+.p3 {
+    
+        color: blue;
+        font-family: 'PT Serif', serif;
+        font-size: 15px;
+        margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+/**Caja1*/
+
+.info {
+    width: 70%;
+    height: auto;
+    background: #96b9d1 ;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.info .tituloseccion {
+    color: black;
+    font-family: 'Gloock', serif;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px black dashed;
+}
+
+.info .tituloinfo {
+    color: black;
+    font-family: 'Gloock', serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+}
+
+.info .InfoInfo {
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: large;
+    display: inline;
+}
+
+/*Caja2*/
+.info .tituloseccion2 {
+    color: black;
+    font-family: 'Gloock', serif;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px black dashed;
+}
+.info .schools {
+    color: black;
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+/*Caja3*/
+.info .tituloseccion3 {
+    color: black;
+    font-family: 'Gloock', serif;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px black dashed;
+}
+
+.info .lista {
+    color: black;
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: large;
+
+  }
+
+/*Caja4*/
+.info .tituloseccion4 {
+    color: black;
+ font-family: 'Gloock', serif;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px black dashed;
+
+}
+
+
+
+.info span {
+display: inline-block;
+width: auto;
+height: auto;
+padding-left: 1%;
+padding-right: 1%;
+background: turquoise;
+color: white;
+font-family: 'Courier New', Courier, monospace;
+border-radius: 5px;
+}
